@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdaxh&label=Profile%20views&color=0e75b6&style=flat" alt="devdaxh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dev_daksh_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_daksh_?logo=twitter&style=for-the-badge" alt="dev_daksh_" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/dev_daxh/" target="blank"><img src="https://img.shields.io/twitter/follow/dev_daksh_?logo=twitter&style=for-the-badge" alt="dev_daksh_" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development**
 
